@@ -7,9 +7,9 @@ import { Suspense } from "react";
 
 import { Body, Button, Container, Header, Image, Link } from "./components";
 import logo from "./DigitalStudio1.png";
-import exp1 from "./Experience#1.png";
-import exp2 from "./Experience#2.png";
-import exp3 from "./Experience#3.png";
+import exp1 from "./Experience1.png";
+import exp2 from "./Experience2.png";
+import exp3 from "./Experience3.png";
 import scene from "./forestNeon7.png";
 import lake from "./lake.png";
 import enlight from "./logo2.png";
