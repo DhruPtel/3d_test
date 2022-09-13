@@ -1,0 +1,70 @@
+.App {
+  background-color: #000000;
+  text-align: center;
+}
+
+.ant-divider {
+  width: 80%;
+  height: 3px;
+  background-color: white;
+}
+
+.card {
+  width: 14rem;
+  color: white;
+  border: 0.1rem solid;
+  border-radius: 0.9rem;
+  height: 26rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  cursor: help;
+}
+
+.card-text {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.forest {
+  width: 100%;
+  height: auto;
+  margin-top: -50px;
+}
+
+.buttonHolder {
+  height: 10px;
+  margin-bottom: 50px;
+  margin-top: -40px;
+}
+
+.logo {
+  width: 90vh;
+  backdrop-filter: blur(3px);
+  border-radius: 20px;
+}
+
+video {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1000px;
+}
+
+.Interface {
+  margin-top: 120px;
+}
+
+.LakeInterface {
+  margin-top: -50px;
+  margin-bottom: -100px;
+}
+
+.pod {
+  right: -1000px;
+}
+
+@media (max-width: 800px) {
+  .bobert {
+    flex-direction: column;
+    margin-top: 20rem;
+  }
+}
